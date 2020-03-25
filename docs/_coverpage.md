@@ -2,7 +2,7 @@
 
 # WebPersonal 开发文档
 
-[GitHub](https://github.com/pan176/WebPersonal) [快速上手](https://pan176.top/webpersonal_doc/#/1.项目介绍)
+[GitHub](https://github.com/pan176/WebPersonal) [快速部署](https://pan176.top/webpersonal_doc/#/快速部署.md)
 
 
 
