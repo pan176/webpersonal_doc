@@ -1,4 +1,4 @@
-[![8qy1Ag.th.png](https://s1.ax1x.com/2020/03/24/8qy1Ag.th.png)](https://imgchr.com/i/8qy1Ag)
+![G9A1vd.png](https://s1.ax1x.com/2020/03/26/G9A1vd.png)
 
 # WebPersonal 开发文档
 
